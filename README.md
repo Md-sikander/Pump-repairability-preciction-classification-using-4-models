@@ -37,7 +37,8 @@ RESULTS:
    
 4. Gradient Boost :
 
-   ![image](https://user-images.githubusercontent.com/87943264/130183918-8d55a1ed-fd60-40a9-921e-cc8a0eef4954.png)
+   ![image](https://user-images.githubusercontent.com/87943264/130185101-4a5579ab-aa1a-41e1-b426-af1138829362.png)
+
 
 
 ## CONCLUSION:
