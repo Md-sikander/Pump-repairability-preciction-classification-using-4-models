@@ -1,5 +1,5 @@
 # Pump-repairability-preciction-classification-using-4-models
-## Pump repairability (Ministry of Africa) prediction/classification using RandomForest, Decision Tree, Gradient boost, Line search CV
+## Pump repairability (Ministry of Africa) prediction/classification using RandomForest, Decision Tree, Gradient boost, Extra Tree Classifier
 
 ## DATSET :
  Input features are 40:
